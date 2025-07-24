@@ -17,3 +17,4 @@ This project involves developing a complete data science pipeline, starting from
 The goal is to build a real-world, production-ready solution that demonstrates the full lifecycle of a data science project. The final product should allow users to interact with the model through a simple web interface where they can input data and get predictions in real-time.**
 
 **OUTPUT :
+<img width="984" height="325" alt="Image" src="https://github.com/user-attachments/assets/bd3d8ab6-ce20-4de3-b637-9c15ad368f97" />
